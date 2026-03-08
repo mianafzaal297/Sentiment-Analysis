@@ -108,7 +108,7 @@ The project uses the **Tweets.csv** dataset containing airline customer feedback
 ### 6. **Word Cloud Visualizations**
 - Overall word cloud from all processed tweets
 - Sentiment-specific word clouds (positive, negative, neutral)
-- Visual representation of most frequent terms
+- Visual representation of the most frequent terms
 
 #### Overall Word Cloud
 ![Word Cloud Processed Tweet](Screenshots/Word%20Cloud%20Processed%20Tweet.png)
@@ -136,7 +136,7 @@ The project uses the **Tweets.csv** dataset containing airline customer feedback
 
 ### Key Findings
 - Fine-tuned transformer models significantly outperform rule-based approaches
-- Traditional ML methods (Naive Bayes, Random Forest) provide good balance between performance and computational cost
+- Traditional ML methods (Naive Bayes, Random Forest) provide a good balance between performance and computational cost
 - Domain-specific fine-tuning improves accuracy by 10-15%
 - Most common words in negative tweets relate to delays, cancellations, and customer service issues
 
